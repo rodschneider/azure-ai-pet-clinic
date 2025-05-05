@@ -1,4 +1,4 @@
-# 🐾 Azure AI PetClinic: AI-Powered Pet Care with Cloud-Native Design [![Build Status](https://github.com/rodschneider/azure-ai-pet-clinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/rodschneider/azure-ai-pet-clinic/actions/workflows/maven-build.yml)[![Build Status](https://github.com/rodschneider/azure-ai-pet-clinic/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/rodschneider/azure-ai-pet-clinic/actions/workflows/gradle-build.yml)
+# 🐾 Azure AI PetClinic: AI-Powered Pet Care with Cloud-Native Design
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rodschneider/azure-ai-pet-clinic) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=7517918)
 
