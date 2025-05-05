@@ -1,6 +1,6 @@
 # 🐾 Azure AI PetClinic: AI-Powered Pet Care with Cloud-Native Design
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rodschneider/azure-ai-pet-clinic) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/rod-schneider/smart-petclinic?quickstart=1)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rodschneider/azure-ai-pet-clinic) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/rod-schneider/azure-ai-pet-clinic?quickstart=1)
 
 Welcome to **Azure AI PetClinic**, an enhanced version of the Spring PetClinic app. This project transforms the traditional pet management system into a cloud-native, AI-driven application that provides health insights, automated notifications, and scalable deployment on Azure Kubernetes Service (AKS). My goal is to make this a valuable resource for developers learning cloud-native development, DevOps, and AI integration.
 
